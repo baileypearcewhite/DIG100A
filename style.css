@@ -44,5 +44,10 @@ nav a {
     margin: 5px;
 }
 
+.nav-container li a:hover {
+    color: #03dac6;
+    transition: 0.5s;
+}
+
 
 
