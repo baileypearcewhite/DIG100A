@@ -5,6 +5,10 @@ html, body {
     font-family: sans-serif;
 }
 
+body {
+    background-color: gainsboro;
+}
+
 header {
     height: 10vh;
     width: 100%;
@@ -44,7 +48,7 @@ nav a {
     margin: 5px;
 }
 
-.nav-container li a:hover {
+.nav ul li a:hover {
     color: #03dac6;
     transition: 0.5s;
 }
