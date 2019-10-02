@@ -17,6 +17,7 @@ header h1 {
 }
 
 nav {
+    display: inline-block;
     float: right;
     margin: 0 40px;
 }
