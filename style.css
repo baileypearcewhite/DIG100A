@@ -12,6 +12,10 @@ header {
     display: inline-block;
 }
 
+header h1 {
+    color: white;
+}
+
 nav {
     float: right;
     margin: 0 40px;
@@ -31,7 +35,7 @@ nav li {
 }
 
 nav a {
-    color: black;
+    color: white;
     text-decoration: none;
     text-transform: uppercase;
     margin: 5px;
