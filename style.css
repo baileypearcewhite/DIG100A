@@ -8,9 +8,7 @@ html, body {
 header {
     height: 100%;
     width: 100%;
-    background: url(../img/kid-1.jpeg);
-    background-size: cover;
-    background-position: center;
+    background-color: black;
     display: inline-block;
 }
 
