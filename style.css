@@ -5,12 +5,13 @@ html, body {
     font-family: sans-serif;
 }
 
-h1 {
-  font-size: 45px;
-}
-
-h3 {
-  font-size: 25px;
+header {
+    height: 100%;
+    width: 100%;
+    background: url(../img/kid-1.jpeg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
 }
 
 nav {
@@ -36,3 +37,10 @@ nav a {
     text-transform: uppercase;
     margin: 5px;
 }
+
+header h1 {
+  font-size: 45px;
+}
+
+
+
