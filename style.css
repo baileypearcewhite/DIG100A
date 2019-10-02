@@ -5,4 +5,6 @@ h1 {
 
 header a {
   float: right;
+  color: black;
+  text-transform: uppercase;
 }
