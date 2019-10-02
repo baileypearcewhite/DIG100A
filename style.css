@@ -10,4 +10,10 @@ h1 {
 }
 
 h3 {
+  font-size: 25px;
+}
+
+nav {
+   float: right;
+}
   
